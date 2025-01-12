@@ -1120,7 +1120,7 @@ function Origin3() {
           <div className={style.aptoCard}>
             <div className={style.aptoTopGrid}>
               <div className={style.textApto}>
-                <div className={style.typeApto}>TIPO 5</div>
+                <div className={style.typeApto}>TIPO 5 PRUEBAAAAA</div>
                 <div className={style.typeAptoDescription}>
                   23.31 M2 - Area Privada
                   <br />
