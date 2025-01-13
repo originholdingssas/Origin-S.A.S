@@ -986,7 +986,7 @@ function Origin3() {
           <div className={style.aptoCard}>
             <div className={style.aptoTopGrid}>
               <div className={style.textApto}>
-                <div className={style.typeApto}>TIPO 2</div>
+                <div className={style.typeApto}>TIPO CAMBIO PRUEBA (2)</div>
                 <div className={style.typeAptoDescription}>
                   61.73 M2 - Area Privada
                   
