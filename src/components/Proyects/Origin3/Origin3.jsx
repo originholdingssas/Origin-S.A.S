@@ -1124,7 +1124,7 @@ function Origin3() {
                 <div className={style.typeAptoDescription}>
                   23.31 M2 - Area Privada.
                   <br />
-                  25.43 M2 - Area Construida
+                  25.43 M2 - Area Construida.
                 </div>
               </div>
               <img
